@@ -14,4 +14,4 @@ This repository contains a collection of SQL scripts, queries, and database-rela
 To get started with this repository, you can simply clone it to your local machine using the following command:
 
 ```shell
-git clone https://github.com/MrLukaszRyszard/sql-repository.git
+git clone https://github.com/MrLukaszRyszard/SQL.git
