@@ -8,8 +8,8 @@ Welcome to my private SQL portfolio repository. Here, I've curated a collection 
 - [Projects](#projects)
 - [Technologies](#technologies)
 - [Contact](#contact)
-- [License](#license)
 - [Getting Started](#getting-started)
+- [License](#license)
 
 ## Introduction
 
@@ -59,3 +59,9 @@ To get started with this repository, you can simply clone it to your local machi
 
 ```shell
 git clone https://github.com/MrLukaszRyszard/SQL.git
+
+## License
+
+This portfolio is made available to recruiters and potential employers for evaluation purposes. You may view and assess the content but are not authorized to reproduce, distribute, or use it for any other purposes without my explicit permission.
+
+Thank you for visiting my SQL portfolio! Your interest and feedback are greatly appreciated.
